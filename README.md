@@ -78,3 +78,6 @@ Please, note:
  - 1st rule is ONLY when using FREE SSL from https://certifytheweb.com/
  - 2nd is ONLY need if you want to force HTTP*S*
 
+
+
+# ANY HELP, COMMENT, QUESTION, JOKE OR ISSUE is more than welcome!!!
