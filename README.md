@@ -71,3 +71,5 @@ In case you just what the IIS rewrite rules:
 
 
 </rules>```
+
+Please, not 1st rule is ONLY when using FREE SSL from https://certifytheweb.com/
