@@ -70,7 +70,8 @@ In case you just what the IIS rewrite rules:
 	</rule>
 
 
-</rules>```
+</rules>
+```
 
 Please, note:
 -------------
