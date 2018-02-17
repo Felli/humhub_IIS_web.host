@@ -7,7 +7,23 @@ Know issues:
 - So, it needs more testing ;)
 
 
+*Web.host*:
+-------------------------------------
+The web.host have all settings and adjustments we have needed but this may be too much for everyone, we recommend to:
 
+ *test it in a development environment and remove all unnecessary parts.*
+
+In case you just what the IIS rewrite rules see below
+
+
+
+
+Rewrite rules *ONLY*:
+-------------------------------------
+
+The web.host have may settings and adjustments  so it may not work for everyone.
+
+In case you just what the IIS rewrite rules:
 Rewrite rules *ONLY*:
 -------------------------------------
 
